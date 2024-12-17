@@ -28,6 +28,7 @@ const drinksData = [
         {"icon": "🍹", "name": "Polpa de maracujá"},
         {"icon": "🍋", "name": "Suco de limão"},
         {"icon": "🍋", "name": "Refrigerante Sprite"},
+        {"icon": "🍬", "name": "Açúcar"},
         {"icon": "🧊", "name": "Gelo"}
       ]
     },
