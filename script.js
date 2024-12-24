@@ -16,7 +16,6 @@ const drinksData = [
       "ingredients": [
         {"icon": "🍓", "name": "Morangos frescos"},
         {"icon": "🥛", "name": "Leite condensado"},
-        {"icon": "🍋", "name": "Suco de limão"},
         {"icon": "🥤", "name": "Refrigerante de limão"},
         {"icon": "🧊", "name": "Gelo"},
       ]
@@ -26,8 +25,9 @@ const drinksData = [
       "image": "https://www.dicasdemulher.com.br/wp-content/uploads/2021/04/drinks-de-morango-00-595xh.png",
       "ingredients": [
         {"icon": "🍓", "name": "Morangos frescos"},
-        {"icon": "🍋", "name": "Suco de limão"},
         {"icon": "🧃", "name": "Suco de morango"},
+        {"icon": "🍋", "name": "Suco de limão"},
+        {"icon": "💧", "name": "Água com gás ou Tônica"},
         {"icon": "🍬", "name": "Açúcar"},
         {"icon": "🧊", "name": "Gelo"},
       ]
@@ -38,7 +38,6 @@ const drinksData = [
       "ingredients": [
         {"icon": "🟡", "name": "Polpa de maracujá"},
         {"icon": "🍋", "name": "Suco de limão"},
-        {"icon": "🍋", "name": "Refrigerante Sprite"},
         {"icon": "💧", "name": "Água com gás ou Tônica"},
         {"icon": "🍬", "name": "Açúcar"},
         {"icon": "🧊", "name": "Gelo"}
@@ -51,7 +50,7 @@ const drinksData = [
         {"icon": "🔵", "name": "Isotônico azul"},
         {"icon": "🌿", "name": "Hortelã fresca"},
         {"icon": "🍋", "name": "Suco de limão"},
-        {"icon": "💧", "name": "Água com gás ou Tônica"},
+        {"icon": "🥤", "name": "Refrigerante de limão"},
         {"icon": "🍬", "name": "Açúcar"},
         {"icon": "🧊", "name": "Gelo"}
       ]
@@ -62,9 +61,9 @@ const drinksData = [
       "ingredients": [
         {"icon": "🍍", "name": "Abacaxi fresco"},
         {"icon": "🍋", "name": "Suco de limão"},
-        {"icon": "🍬", "name": "Açúcar"},
         {"icon": "🌿", "name": "Hortelã"},
         {"icon": "💧", "name": "Água com gás ou Tônica"},
+        {"icon": "🍬", "name": "Açúcar"},
         {"icon": "🧊", "name": "Gelo"}
       ]
     },
@@ -74,9 +73,9 @@ const drinksData = [
       "ingredients": [
         {"icon": "🥝", "name": "Kiwi fresco"},
         {"icon": "🍋", "name": "Suco de limão"},
-        {"icon": "🍬", "name": "Açúcar"},
         {"icon": "🌿", "name": "Hortelã"},
         {"icon": "💧", "name": "Água com gás ou Tônica"},
+        {"icon": "🍬", "name": "Açúcar"},
         {"icon": "🧊", "name": "Gelo"}
       ]
     },
