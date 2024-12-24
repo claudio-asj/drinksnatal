@@ -79,6 +79,16 @@ const drinksData = [
         {"icon": "💧", "name": "Água com gás ou Tônica"},
         {"icon": "🧊", "name": "Gelo"}
       ]
+    },
+    {
+      "name": "Caipirinha",
+      "image": "https://th.bing.com/th/id/OIP.Tq88Felj4pQiEUzkNtrijAHaEK?rs=1&pid=ImgDetMain",
+      "ingredients": [
+        {"icon": "🍋", "name": "Suco de limão"},
+        {"icon": "🍬", "name": "Açúcar"},
+        {"icon": "🍾", "name": "Cachaça"},
+        {"icon": "🧊", "name": "Gelo"}
+      ]
     }
   ];
   
