@@ -12,8 +12,7 @@
     <title>Cartela de Drinks para o Natal</title>
 
     <!-- Descrição -->
-    <meta name="description"
-        content="Veja os drinks que você pode pedir pro Claudio Jr.">
+    <meta name="description" content="Veja os drinks que você pode pedir pro Claudio Jr.">
 
     <!-- Palavras-chave -->
     <meta name="keywords" content="drinks de natal, coquetéis de natal, receitas de drinks, bebidas de natal">
@@ -26,8 +25,7 @@
 
     <!-- Open Graph Meta tags -->
     <meta property="og:title" content="Cartela de Drinks para o Natal">
-    <meta property="og:description"
-        content="Veja os drinks que você pode pedir pro Claudio Jr.">
+    <meta property="og:description" content="Veja os drinks que você pode pedir pro Claudio Jr.">
     <meta property="og:url" content="https://www.seusite.com.br">
     <meta property="og:type" content="website">
 
@@ -41,7 +39,7 @@
     <style>
         body {
             background-image: url("https://th.bing.com/th/id/OIP.3WtfOlAB5mYhGozo1pIBsgHaHa?w=1380&h=1380&rs=1&pid=ImgDetMain");
-            background-size: 200px;
+            background-size: 400px;
         }
 
         .fade-in {
@@ -62,14 +60,26 @@
 
 <body class="bg-gray-100">
 
-    <div class="max-w-7xl mx-auto p-8">
+    <div class="max-w-7xl mx-auto p-8 fade-in">
         <h1
             class="text-2xl text-center font-bold bg-red-600 mb-8 w-fit m-auto px-4 py-4 rounded-lg text-green-100 shadow-lg">
-            Drinks Natalino - Claudio</h1>
+            Drinks Natalino 2025</h1>
+        <img class="mx-auto rounded-lg shadow-lg mb-8"
+            src="https://i.pinimg.com/originals/6f/40/25/6f4025f83d11fbb560ed453e98d80104.gif" alt="gif">
+
 
         <section id="drinks" class="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-8">
 
         </section>
+        <!-- Música toca automaticamente -->
+        <audio autoplay loop hidden>
+            <source src="./musica.mp3" type="audio/mpeg">
+            Seu navegador não suporta o elemento de áudio.
+        </audio>
+        <footer class="mt-12 text-center bg-zinc-100/65 p-4">
+            <p class="text-xs mb-4 font-light italic">Imagens meramente ilustrativa.</p>
+            <p class="font-bold text-red-700">&copy; 2025 - Drinks Natalino por Claudio Jr.</p>
+        </footer>
 
         <script src="script.js" type="module"></script>
 </body>
